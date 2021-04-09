@@ -1,1 +1,2 @@
-2021-4-9 15:21
+Git is a distributed version control system.
+Git is free software distributed under the GPL.
